@@ -5,7 +5,7 @@ body{
     font-family: digital;
     src: url(digital-7.ttf);
 }
-.font { font: 200px digital;
+.font { font: 400px digital;
     text-align: center;
     color: #00d0ff;
 }
